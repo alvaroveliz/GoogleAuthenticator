@@ -104,7 +104,7 @@ class GoogleAuthenticator
 
         return $encoderURL;
     }
- 
+
     /**
      * @return string
      */
