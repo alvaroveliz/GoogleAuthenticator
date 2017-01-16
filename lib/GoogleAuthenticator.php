@@ -93,7 +93,7 @@ class GoogleAuthenticator
      * @param  string $user
      * @param  string $hostname
      * @param  string $secret
-     * @param  string $issue
+     * @param  string $issuer
      * 
      * @return string
      */
