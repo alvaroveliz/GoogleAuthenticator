@@ -90,7 +90,7 @@ class GoogleAuthenticator
     }
 
     /**
-     * NEXT_MAJOR: Add a new parameter called $issuer
+     * NEXT_MAJOR: Add a new parameter called $issuer.
      *
      * @param string $user
      * @param string $hostname
